@@ -1,1 +1,10 @@
 asdfasdfasdf
+Setup proxy for github:
+1. Creat environment variable for Windows 
+Name: HTTP_PROxY
+Value: http://172.28.10.20:2222
+2. Open Gitbash, config
+git config --global http.proxy $HTTP_PROXY
+
+Push committed project to server
+git push
