@@ -9,7 +9,9 @@ git config --global http.proxy $HTTP_PROXY
 Push committed project to server
 git push
 
+
 Test pull and merge
 
 
 hell from nguyen
+
